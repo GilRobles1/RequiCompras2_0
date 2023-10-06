@@ -1,0 +1,1 @@
+﻿SELECT T0.[ItemCode] FROM OITM T0 WHERE T0.[ItemCode] NOT LIKE 'MP%' AND  T0.[ItemCode] NOT LIKE 'CS%' AND  T0.[ItemCode] NOT LIKE 'HA%'  AND  T0.[ItemCode] NOT LIKE 'YUN%' AND  T0.[ItemCode] NOT LIKE 'HER%' AND  T0.[ItemCode] NOT LIKE 'ME%' AND  T0.[ItemCode] NOT LIKE 'RT%' AND  T0.[ItemCode] NOT LIKE 'CR%' AND  T0.[ItemCode] NOT LIKE 'SR%' 
